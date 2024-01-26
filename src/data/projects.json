@@ -3,7 +3,7 @@
     "title": "LiveChat App",
     "imageSrc": "projects/chatapp.png",
     "description": "A realtime chat application where users can join or create groups.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Express", "Node", "Socket.io"],
     "demo": "https://live-chat-app-eight.vercel.app/",
     "source": "https://github.com/Slayershrey/LiveChatApp"
   },
@@ -11,7 +11,7 @@
     "title": "CourseSelling App",
     "imageSrc": "projects/project.png",
     "description": "A fullstack website for selling and managing courses.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "skills": ["React", "Express", "Node", "MongoDB"],
     "demo": "https://course-selling-app-eight.vercel.app/",
     "source": "https://github.com/Slayershrey/CourseSellingApp"
   },
