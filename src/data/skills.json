@@ -17,14 +17,30 @@
   },
   {
     "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Recoil",
+    "imageSrc": "skills/recoil.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
   }
 ]

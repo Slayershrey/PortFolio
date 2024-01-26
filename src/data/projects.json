@@ -1,19 +1,19 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "LiveChat App",
+    "imageSrc": "projects/chatapp.png",
+    "description": "A realtime chat application where users can join or create groups.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://live-chat-app-eight.vercel.app/",
+    "source": "https://github.com/Slayershrey/LiveChatApp"
   },
   {
-    "title": "Project B",
+    "title": "CourseSelling App",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://course-selling-app-eight.vercel.app/",
+    "source": "https://github.com/Slayershrey/CourseSellingApp"
   },
   {
     "title": "Project C",

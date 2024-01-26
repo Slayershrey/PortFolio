@@ -1,7 +1,7 @@
-import React from "react";
+import React from "react"
 
-import styles from "./About.module.css";
-import { getImageUrl } from "../../utils";
+import styles from "./About.module.css"
+import { getImageUrl } from "../../utils"
 
 export const About = () => {
   return (
@@ -34,18 +34,8 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>
-                I have designed multiple landing pages and have created design
-                systems as well
-              </p>
-            </div>
-          </li>
         </ul>
       </div>
     </section>
-  );
-};
+  )
+}

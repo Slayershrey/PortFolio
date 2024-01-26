@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Shreyansh Sawalkar</h1>
         <p className={styles.description}>
-          A passionate Programmer, developer and Problem Solver
+          A passionate Programmer, Developer and Problem Solver
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:sawalkar336@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
