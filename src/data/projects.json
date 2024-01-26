@@ -3,7 +3,7 @@
     "title": "LiveChat App",
     "imageSrc": "projects/chatapp.png",
     "description": "A realtime chat application where users can join or create groups.",
-    "skills": ["React", "Express", "Node", "Socket.io"],
+    "skills": ["Socket.io", "React", "Express", "Node"],
     "demo": "https://live-chat-app-eight.vercel.app/",
     "source": "https://github.com/Slayershrey/LiveChatApp"
   },
