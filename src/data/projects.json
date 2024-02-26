@@ -4,8 +4,8 @@
     "imageSrc": "projects/chatapp.png",
     "description": "A realtime chat application where users can join or create groups.",
     "skills": ["Socket.io", "React", "Express", "Node"],
-    "demo": "https://live-chat-app-y3u3.vercel.app/",
-    "source": "https://github.com/Slayershrey/Live_ChatApp"
+    "demo": "https://chat-app-live-omega.vercel.app/",
+    "source": "https://github.com/Slayershrey/ChatApp_Live"
   },
   {
     "title": "CourseSelling App",
@@ -18,7 +18,7 @@
   {
     "title": "Project C",
     "imageSrc": "projects/project.png",
-    "description": "sample.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit aliqua. ",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"

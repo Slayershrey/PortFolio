@@ -7,7 +7,7 @@ import { useTypingEffect } from "../../useTypingEffect"
 export const Hero = () => {
   const text = useTypingEffect(
     "A passionate Programmer, Developer and Problem Solver",
-    200
+    100
   )
   return (
     <section className={styles.container}>
@@ -19,7 +19,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/q2.jpg")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
